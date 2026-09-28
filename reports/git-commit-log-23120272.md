@@ -1,3 +1,51 @@
+*   commit c1c6fc40da2dba2b62ad251e006d76fc7ae76a4d
+|\  Merge: a0f6ac3 99f9a37
+| | Author: Lê Quốc Huy <lehuy1519@gmail.com>
+| | Date:   Mon Sep 28 21:34:13 2026 +0700
+| | 
+| |     Merge branch 'main' into Build3
+| | 
+| * commit 99f9a379eecf907d82f3721c4fd52f005d80aaba
+| | Merge: b41b500 8cf43e8
+| | Author: Le Quoc Huy <lehuy1519@gmail.com>
+| | Date:   Mon Sep 28 21:33:24 2026 +0700
+| | 
+| |     Merge pull request #16 from hoangphi117/Build3
+| |     
+| |     Build3
+| | 
+* | commit a0f6ac39715df64c68b2bc1a0dcee2264884d766
+|/  Merge: 8cf43e8 b41b500
+|   Author: Lê Quốc Huy <lehuy1519@gmail.com>
+|   Date:   Mon Sep 28 21:32:58 2026 +0700
+|   
+|       Merge branch 'main' into Build3
+| 
+* commit 8cf43e8837ddf4eb4259500a0675fbef8423002d
+| Author: Lê Quốc Huy <lehuy1519@gmail.com>
+| Date:   Mon Sep 28 21:32:39 2026 +0700
+| 
+|     fix: rename BUG-004 - BUG-007
+| 
+|  tests/bugs/BUG-004.md         | 68 -------------------------------------
+|  tests/bugs/BUG-005.md         | 74 -----------------------------------------
+|  tests/bugs/BUG-006.md         | 51 ++++++++++++++--------------
+|  tests/bugs/BUG-007.md         | 47 ++++++++++++++------------
+|  tests/bugs/BUG-008.md         | 69 ++++++++++++++++++++++++++++++++++++++
+|  tests/bugs/BUG-009.md         | 69 ++++++++++++++++++++++++++++++++++++++
+|  tests/test-runs/TR-Build-3.md |  4 +--
+|  tests/test-runs/TR-Build-4.md | 12 +++----
+|  8 files changed, 197 insertions(+), 197 deletions(-)
+| 
+* commit d537e2f8d466e1f3fe7aad2f33848e0f47476beb
+| Author: Lê Quốc Huy <lehuy1519@gmail.com>
+| Date:   Mon Sep 28 21:13:02 2026 +0700
+| 
+|     feat: log commit
+| 
+|  reports/git-commit-log-23120272.md | 346 ++++++++++++++++-------------------
+|  1 file changed, 156 insertions(+), 190 deletions(-)
+| 
 * commit 04b6b4deb9e7b63686df491bd3973187d1e950ba
 | Author: Lê Quốc Huy <lehuy1519@gmail.com>
 | Date:   Mon Sep 28 21:09:17 2026 +0700
@@ -65,21 +113,21 @@
 | | 
 | |     Merge branch 'main' into Build3
 | | 
-* | commit 3552a964c47814438142b16b8034852276d9a601
-| | Merge: 946b505 a6d873a
-| | Author: Lê Quốc Huy <lehuy1519@gmail.com>
-| | Date:   Mon Sep 28 19:38:07 2026 +0700
-| | 
-| |     Merge branch 'main' into Build3
-| | 
 | * commit cff4e7830d8dfce595d6c7360f9b0ecf74b51eb9
-|/  Merge: cc30ce8 946b505
-|   Author: Le Quoc Huy <lehuy1519@gmail.com>
-|   Date:   Mon Sep 28 19:41:14 2026 +0700
+| | Merge: cc30ce8 946b505
+| | Author: Le Quoc Huy <lehuy1519@gmail.com>
+| | Date:   Mon Sep 28 19:41:14 2026 +0700
+| | 
+| |     Merge pull request #6 from hoangphi117/Build3
+| |     
+| |     Merge Build3 into main
+| | 
+* | commit 3552a964c47814438142b16b8034852276d9a601
+|/  Merge: 946b505 a6d873a
+|   Author: Lê Quốc Huy <lehuy1519@gmail.com>
+|   Date:   Mon Sep 28 19:38:07 2026 +0700
 |   
-|       Merge pull request #6 from hoangphi117/Build3
-|       
-|       Merge Build3 into main
+|       Merge branch 'main' into Build3
 | 
 * commit 946b5059cd5948ef9c491974db11403b214ba9dd
 | Author: Lê Quốc Huy <lehuy1519@gmail.com>
