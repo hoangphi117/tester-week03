@@ -31,4 +31,4 @@ Nhập liệu (Input) / Functional / Use Case Testing
 - Form trở về trạng thái ban đầu
 
 ## Status / Related bugs
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)
