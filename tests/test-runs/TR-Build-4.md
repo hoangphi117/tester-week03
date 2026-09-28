@@ -6,7 +6,7 @@
 | TC-ANSWER-002 | Answer | Huy | Pass | | |
 | TC-ANSWER-003 | Answer | Huy | Pass | | |
 | TC-ANSWER-004 | Answer | Huy | Pass | | |
-| TC-ANSWER-005 | Answer | Huy | Fail | #1 | Phép chia 1 / 3 hiển thị kết quả 0 thay vì 0.3333... do Integers only bị ép bật |
+| TC-ANSWER-005 | Answer | Huy | Fail | [#12](../bugs/BUG-009.md) | Phép chia 1 / 3 hiển thị kết quả 0 thay vì 0.3333... do Integers only bị ép bật |
 | TC-ANSWER-006 | Answer | Huy | Pass | | |
 | TC-ANSWER-007 | Answer | Huy | Pass | | |
 | TC-ANSWER-008 | Answer | Huy | Pass | | |
@@ -16,7 +16,7 @@
 | TC-CALCULATE-003 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-004 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-005 | Calculate | Huy | Pass | | |
-| TC-CALCULATE-006 | Calculate | Huy | Fail | #1 | Phép chia 5 / 2 hiển thị kết quả 2 thay vì 2.5 do Integers only bị ép bật |
+| TC-CALCULATE-006 | Calculate | Huy | Fail | [#11](../bugs/BUG-008.md) | Phép chia 5 / 2 hiển thị kết quả 2 thay vì 2.5 do Integers only bị ép bật |
 | TC-CALCULATE-007 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-008 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-009 | Calculate | Huy | Pass | | |
@@ -41,11 +41,11 @@
 | TC-OPERATION-004 | Operation | Huy | Pass | | |
 | TC-OPERATION-005 | Operation | Huy | Pass | | |
 | TC-OPERATION-006 | Operation | Huy | Pass | | |
-| TC-OPTIONS-001 | Options | Huy | Fail | #1 | Checkbox Integers only mặc định bị checked và disabled |
-| TC-OPTIONS-002 | Options | Huy | Fail | #1 | Không thể bỏ chọn checkbox Integers only do bị disabled |
-| TC-OPTIONS-003 | Options | Huy | Fail | #1 | Click nhãn Integers only không thay đổi được trạng thái do checkbox bị disabled |
+| TC-OPTIONS-001 | Options | Huy | Fail | [#8](../bugs/BUG-007.md) | Checkbox Integers only mặc định bị checked và disabled |
+| TC-OPTIONS-002 | Options | Huy | Fail | [#8](../bugs/BUG-007.md) | Không thể bỏ chọn checkbox Integers only do bị disabled |
+| TC-OPTIONS-003 | Options | Huy | Fail | [#8](../bugs/BUG-007.md) | Click nhãn Integers only không thay đổi được trạng thái do checkbox bị disabled |
 | TC-OPTIONS-004 | Options | Huy | Pass | | |
-| TC-OPTIONS-005 | Options | Huy | Fail | #1 | Không thể tắt Integers only để tính số thập phân do checkbox bị disabled |
+| TC-OPTIONS-005 | Options | Huy | Fail | [#8](../bugs/BUG-007.md) | Không thể tắt Integers only để tính số thập phân do checkbox bị disabled |
 | TC-OPTIONS-006 | Options | Huy | Pass | | |
 | TC-OPTIONS-007 | Options | Huy | Pass | | |
 | TC-OPTIONS-008 | Options | Huy | Pass | | |
@@ -58,6 +58,12 @@
 | TC-VALIDATION-006 | Validation | Huy | Pass | | |
 | TC-VALIDATION-007 | Validation | Huy | Pass | | |
 
-## Trạng thái test run
+## Thống kê kết quả (Summary)
 
-`Pass` `Fail` `Blocked` `Not Run`
+| Trạng thái | Số lượng | Tỷ lệ |
+|---|---|---|
+| ✅ Pass | 49 | 89.1% |
+| ❌ Fail | 6 | 10.9% |
+| 🚫 Blocked | 0 | 0% |
+| ⏳ Not Run | 0 | 0% |
+| **Tổng** | **55** | **100%** |

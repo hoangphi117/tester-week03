@@ -1,5 +1,4 @@
-# Test Run: ghi nhận kết quả execute test case cho build 3
-
+# Test Run: ghi nhận kết quả execute test case cho build 6
 
 | Test Case ID | Module | Tester | Result | Related Bug | Note |
 | --- | --- | --- | --- | --- | --- |
@@ -18,7 +17,7 @@
 | TC-CALCULATE-004 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-005 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-006 | Calculate | Huy | Pass | | |
-| TC-CALCULATE-007 | Calculate | Huy | Pass | | |
+| TC-CALCULATE-007 | Calculate | Huy | Fail | [#15](../bugs/BUG-005.md) | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
 | TC-CALCULATE-008 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-009 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-010 | Calculate | Huy | Pass | | |
@@ -49,23 +48,22 @@
 | TC-OPTIONS-005 | Options | Huy | Pass | | |
 | TC-OPTIONS-006 | Options | Huy | Pass | | |
 | TC-OPTIONS-007 | Options | Huy | Pass | | |
-| TC-OPTIONS-008 | Options | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-OPTIONS-008 | Options | Huy | Pass | | |
 | TC-OPTIONS-009 | Options | Huy | Pass | | |
 | TC-VALIDATION-001 | Validation | Huy | Pass | | |
 | TC-VALIDATION-002 | Validation | Huy | Pass | | |
 | TC-VALIDATION-003 | Validation | Huy | Pass | | |
 | TC-VALIDATION-004 | Validation | Huy | Pass | | |
-| TC-VALIDATION-005 | Validation | Huy | Pass | | |
+| TC-VALIDATION-005 | Validation | Huy | Fail | [#15](../bugs/BUG-005.md) | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
 | TC-VALIDATION-006 | Validation | Huy | Pass | | |
-| TC-VALIDATION-007 | Validation | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-VALIDATION-007 | Validation | Huy | Pass | | |
 
-## Thống kê kết quả (Summary)
+## Thống kê kết quả
 
 | Trạng thái | Số lượng | Tỷ lệ |
-|---|---|---|
-| ✅ Pass | 53 | 96.4% |
-| ❌ Fail | 2 | 3.6% |
-| 🚫 Blocked | 0 | 0% |
-| ⏳ Not Run | 0 | 0% |
-| **Tổng** | **55** | **100%** |
-
+| --- | ---: | ---: |
+| Pass | 53 | 96.36% |
+| Fail | 2 | 3.64% |
+| Blocked | 0 | 0% |
+| Not Run | 0 | 0% |
+| Tổng | 55 | 100% |
