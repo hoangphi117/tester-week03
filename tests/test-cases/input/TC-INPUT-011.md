@@ -35,5 +35,4 @@ Nhập liệu (Input) / Functional / Boundary Value Analysis
 - Ô **Answer** hiển thị kết quả `10000000000`
 
 ## Status / Related bugs
-
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)

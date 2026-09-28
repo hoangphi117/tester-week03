@@ -7,9 +7,9 @@
 
 | Chỉ số | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 | B9 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ✅ **Pass** | 50 (90.91%) | - | 53 (96.36%) | 49 (89.09%) | 54 (98.18%) | - | - | - | - |
-| ❌ **Fail** | 5 (9.09%) | - | 2 (3.64%) | 6 (10.91%) | 1 (1.82%) | - | - | - | - |
-| ⏳ **Not Run** | 0 | 55 | 0 | 0 | 0 | 55 | 55 | 55 | 55 |
+| ✅ **Pass** | 50 (90.91%) | 40 (72.73%) | 53 (96.36%) | 49 (89.09%) | 54 (98.18%) | 53 (96.36%) | - | - | - |
+| ❌ **Fail** | 5 (9.09%) | 15 (27.27%) | 2 (3.64%) | 6 (10.91%) | 1 (1.82%) | 2 (3.64%) | - | - | - |
+| ⏳ **Not Run** | 0 | 0 | 0 | 0 | 0 | 0 | 55 | 55 | 55 |
 | 🪲 **Active Bugs** | 2 Open | - | - | - | - | - | - | - | - |
 
 ## 2. Bảng Ma trận truy vết chi tiết (B1 ➔ B9)
@@ -40,7 +40,7 @@
 | FR-VALIDATION-02 | [TC-VALIDATION-002](../test-cases/validation/TC-VALIDATION-002.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#4](../bugs/BUG-001.md) | Open |
 | FR-VALIDATION-03 | [TC-VALIDATION-003](../test-cases/validation/TC-VALIDATION-003.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#5](../bugs/BUG-002.md) | Open |
 | FR-VALIDATION-04 | [TC-VALIDATION-004](../test-cases/validation/TC-VALIDATION-004.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#4](../bugs/BUG-001.md) | Open |
-| FR-VALIDATION-05 | [TC-VALIDATION-005](../test-cases/validation/TC-VALIDATION-005.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
+| FR-VALIDATION-05 | [TC-VALIDATION-005](../test-cases/validation/TC-VALIDATION-005.md) | Validation | Pass | - | - | - | - | **Fail** | - | - | - | #1 | Open |
 | FR-VALIDATION-06 | [TC-VALIDATION-006](../test-cases/validation/TC-VALIDATION-006.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-VALIDATION-07 | [TC-VALIDATION-007](../test-cases/validation/TC-VALIDATION-007.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-CALCULATE-01 | [TC-CALCULATE-001](../test-cases/calculate/TC-CALCULATE-001.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
@@ -49,7 +49,7 @@
 | FR-CALCULATE-04 | [TC-CALCULATE-004](../test-cases/calculate/TC-CALCULATE-004.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-CALCULATE-05 | [TC-CALCULATE-005](../test-cases/calculate/TC-CALCULATE-005.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-CALCULATE-06 | [TC-CALCULATE-006](../test-cases/calculate/TC-CALCULATE-006.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
-| FR-CALCULATE-07 | [TC-CALCULATE-007](../test-cases/calculate/TC-CALCULATE-007.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
+| FR-CALCULATE-07 | [TC-CALCULATE-007](../test-cases/calculate/TC-CALCULATE-007.md) | Calculate | Pass | - | - | - | - | - | **Fail** | - | - | #1 | Open |
 | FR-CALCULATE-08 | [TC-CALCULATE-008](../test-cases/calculate/TC-CALCULATE-008.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-CALCULATE-09 | [TC-CALCULATE-009](../test-cases/calculate/TC-CALCULATE-009.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-CALCULATE-10 | [TC-CALCULATE-010](../test-cases/calculate/TC-CALCULATE-010.md) | Calculate | Pass | - | - | - | - | - | - | - | - |  | Passed |
@@ -70,4 +70,4 @@
 | FR-OPTIONS-06 | [TC-OPTIONS-006](../test-cases/options/TC-OPTIONS-006.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-OPTIONS-07 | [TC-OPTIONS-007](../test-cases/options/TC-OPTIONS-007.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-OPTIONS-08 | [TC-OPTIONS-008](../test-cases/options/TC-OPTIONS-008.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
-| FR-OPTIONS-09 | [TC-OPTIONS-009](../test-cases/options/TC-OPTIONS-009.md) | Options | Pass | - | Pass | **Fail** | **Fail** | - | - | - | - | #1 | Open |
+| FR-OPTIONS-09 | [TC-OPTIONS-009](../test-cases/options/TC-OPTIONS-009.md) | Options | Pass | - | Pass | **Fail** | **Fail** | **Pass** | - | - | - | #1 | Open |
