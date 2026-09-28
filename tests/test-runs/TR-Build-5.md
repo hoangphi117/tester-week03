@@ -49,7 +49,7 @@
 | TC-OPTIONS-006 | Options | Huy | Pass | | |
 | TC-OPTIONS-007 | Options | Huy | Pass | | |
 | TC-OPTIONS-008 | Options | Huy | Pass | | |
-| TC-OPTIONS-009 | Options | Huy | Fail | #1 | Nút Clear bị disabled sau khi bật Integers only nên không thể click để reset checkbox |
+| TC-OPTIONS-009 | Options | Huy | Fail | [#8](../bugs/BUG-004.md) | Nút Clear bị disabled sau khi bật Integers only nên không thể click để reset checkbox |
 | TC-VALIDATION-001 | Validation | Huy | Pass | | |
 | TC-VALIDATION-002 | Validation | Huy | Pass | | |
 | TC-VALIDATION-003 | Validation | Huy | Pass | | |
@@ -66,16 +66,4 @@
 | Fail | 1 | 1.82% |
 | Blocked | 0 | 0% |
 | Not Run | 0 | 0% |
-| **Tổng** | **55** | **100%** |
-
-## Ghi chú thực thi
-
-- **Ngày thực hiện:** 28/09/2026
-- **Tester:** Huy
-- **Command:** `npm test`
-- **Kết quả Playwright:** `54 passed, 1 failed`
-- **Failure:** `TC-OPTIONS-009` timeout khi click `#clearButton` vì element đang disabled.
-
-## Trạng thái test run
-
-`Pass` `Fail` `Blocked` `Not Run`
+| Tổng | 55 | 100% |
