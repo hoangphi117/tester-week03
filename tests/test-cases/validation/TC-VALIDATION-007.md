@@ -30,4 +30,4 @@ Kiểm tra dữ liệu (Validation) / Functional / Use Case Testing
 - Ô **Answer** hiển thị kết quả là chuỗi nối `1234`
 
 ## Status / Related bugs
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)

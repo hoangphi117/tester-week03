@@ -35,5 +35,4 @@ Hiển thị kết quả (Answer) / Functional / Use Case Testing
 - Ô **Answer** trở về trống (không còn giá trị `12`)
 
 ## Status / Related bugs
-
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)

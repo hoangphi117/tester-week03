@@ -28,4 +28,4 @@ Kiểm tra dữ liệu (Validation) / Negative / Equivalence Partitioning
 - Ô **Answer** (`id="numberAnswerField"`) hiển thị kết quả là 0
 
 ## Status / Related bugs
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)
