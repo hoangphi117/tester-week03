@@ -431,3 +431,10 @@ Bảng tổng hợp cập nhật cột B2: 40 Pass / 15 Fail / 3 Active Bugs.
 Bảng chi tiết cập nhật trạng thái cột B2 cho tất cả 55 Requirements & Test Cases.
 Cập nhật trạng thái trong 15 file Test Case bị ảnh hưởng:
 Cập nhật mục Status / Related bugs phản ánh chính xác kết quả sau Build 2.
+
+---
+
+- Tên công cụ AI: Gemini Flash 3.8 (Antigravity)
+- Ngày và giờ: 22:36 28/09
+- Prompt: Hãy sửa lại traceability-matrix.nd trong test-summary cho cột B2 theo kết quả test đã chạy
+- Kết quả do AI tạo ra:
