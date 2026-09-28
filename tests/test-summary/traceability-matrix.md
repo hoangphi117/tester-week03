@@ -7,9 +7,9 @@
 
 | Chỉ số | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 | B9 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ✅ **Pass** | 50 (90.91%) | - | 53 (96.36%) | 49 (89.09%) | 54 (98.18%) | 53 (96.36%) | - | - | - |
-| ❌ **Fail** | 5 (9.09%) | - | 2 (3.64%) | 6 (10.91%) | 1 (1.82%) | 2 (3.64%) | - | - | - |
-| ⏳ **Not Run** | 0 | 55 | 0 | 0 | 0 | 0 | 55 | 55 | 55 |
+| ✅ **Pass** | 50 (90.91%) | 40 (72.73%) | 53 (96.36%) | 49 (89.09%) | 54 (98.18%) | 53 (96.36%) | - | - | - |
+| ❌ **Fail** | 5 (9.09%) | 15 (27.27%) | 2 (3.64%) | 6 (10.91%) | 1 (1.82%) | 2 (3.64%) | - | - | - |
+| ⏳ **Not Run** | 0 | 0 | 0 | 0 | 0 | 0 | 55 | 55 | 55 |
 | 🪲 **Active Bugs** | 2 Open | - | - | - | - | - | - | - | - |
 
 ## 2. Bảng Ma trận truy vết chi tiết (B1 ➔ B9)
@@ -70,4 +70,4 @@
 | FR-OPTIONS-06 | [TC-OPTIONS-006](../test-cases/options/TC-OPTIONS-006.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-OPTIONS-07 | [TC-OPTIONS-007](../test-cases/options/TC-OPTIONS-007.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-OPTIONS-08 | [TC-OPTIONS-008](../test-cases/options/TC-OPTIONS-008.md) | Options | Pass | - | - | - | - | - | - | - | - |  | Passed |
-| FR-OPTIONS-09 | [TC-OPTIONS-009](../test-cases/options/TC-OPTIONS-009.md) | Options | Pass | - | Pass | **Fail** | **Fail** | - | - | - | - | #1 | Open |
+| FR-OPTIONS-09 | [TC-OPTIONS-009](../test-cases/options/TC-OPTIONS-009.md) | Options | Pass | - | Pass | **Fail** | **Fail** | **Pass** | - | - | - | #1 | Open |

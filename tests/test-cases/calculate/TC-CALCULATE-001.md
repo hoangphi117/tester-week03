@@ -28,4 +28,4 @@ Tính toán (Calculate) / Functional / Equivalence Partitioning
 - Không có thông báo lỗi
 
 ## Status / Related bugs
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)

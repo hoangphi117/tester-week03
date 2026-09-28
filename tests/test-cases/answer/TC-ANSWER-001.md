@@ -30,4 +30,4 @@ Hiển thị kết quả (Answer) / Functional / Equivalence Partitioning
 - Ô Answer là readonly (không thể chỉnh sửa trực tiếp)
 
 ## Status / Related bugs
-Not Run / None
+Fail (Build 2) / [#9](../../bugs/BUG-003.md)
