@@ -1,0 +1,5 @@
+Trong quá trình thực hiện bài kiểm thử tự động và lập báo cáo test run cho Build 9, AI đã hỗ trợ trong việc tự động hóa chạy bộ test suite 55 test cases bằng Playwright và cấu trúc tài liệu. Tuy nhiên, AI cũng có những điểm hạn chế nhất định.
+
+Cụ thể, AI ban đầu chưa lường trước được việc các phần tử đầu vào (`#number1Field`, `#number2Field`) trên trang Build 9 bị ẩn và disabled (`display: none` hoặc thuộc tính ẩn), dẫn đến việc các câu lệnh test bị timeout và thất bại hàng loạt. AI đã thiếu sót khi không kiểm tra trực quan hoặc phân tích sâu cấu trúc HTML của Build 9 trước khi thực thi. Nguyên nhân là do AI dựa hoàn toàn vào các selector cố định từ các build trước mà không nhận diện được sự thay đổi logic hiển thị đặc thù của Build 9.
+
+Qua trải nghiệm này, bài học quan trọng em rút ra trong nguyên tắc hợp tác với AI là con người không nên phó mặc hoàn toàn cho AI mà cần phải luôn kiểm chứng kết quả thực tế, chủ động phân tích các lỗi môi trường hoặc sự thay đổi giao diện, đồng thời đưa ra các chỉ dẫn tinh chỉnh rõ ràng để AI có thể điều chỉnh hướng giải quyết chính xác và hiệu quả hơn.
