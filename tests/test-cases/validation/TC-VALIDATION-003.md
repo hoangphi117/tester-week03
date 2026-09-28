@@ -28,4 +28,4 @@ Kiểm tra dữ liệu (Validation) / Negative / Equivalence Partitioning
 - Ô **Answer** không hiển thị kết quả
 
 ## Status / Related bugs
-Not Run / None
+Fail / [#2](../../bugs/BUG-002.md)
