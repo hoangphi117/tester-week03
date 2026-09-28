@@ -35,6 +35,7 @@
 | TC-INPUT-011 | Input | Huy | Pass | | |
 | TC-INPUT-012 | Input | Huy | Pass | | |
 | TC-INPUT-013 | Input | Huy | Pass | | |
+| TC-INPUT-014 | Input | Huy | Pass | | |
 | TC-OPERATION-001 | Operation | Huy | Pass | | |
 | TC-OPERATION-002 | Operation | Huy | Pass | | |
 | TC-OPERATION-003 | Operation | Huy | Pass | | |
