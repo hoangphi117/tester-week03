@@ -1,23 +1,28 @@
 # TC-CALC-ANS-009: Nút Clear xóa kết quả trong ô Answer
 
 ## Requirement ID
+
 FR-ANSWER-09
 
 ## Module / Test type / Technique
+
 Hiển thị kết quả (Answer) / Functional / Use Case Testing
 
 ## Preconditions
+
 - Build được chọn là build cần test
 - Các trường nhập liệu đang trống
 
 ## Test data
+
 | Field         | Value |
-|---------------|-------|
+| ------------- | ----- |
 | First number  | 8     |
 | Second number | 4     |
 | Operation     | Add   |
 
 ## Test steps
+
 1. Nhập `8` vào ô **First number**
 2. Nhập `4` vào ô **Second number**
 3. Chọn Operation = **Add**
@@ -26,8 +31,9 @@ Hiển thị kết quả (Answer) / Functional / Use Case Testing
 6. Quan sát ô **Answer** (`id="numberAnswerField"`)
 
 ## Expected result
+
 - Ô **Answer** trở về trống (không còn giá trị `12`)
-- Ô **First number** và **Second number** cũng trở về trống
 
 ## Status / Related bugs
+
 Not Run / None
