@@ -17,7 +17,7 @@
 | TC-CALCULATE-004 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-005 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-006 | Calculate | Huy | Pass | | |
-| TC-CALCULATE-007 | Calculate | Huy | Fail | #1 | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
+| TC-CALCULATE-007 | Calculate | Huy | Fail | [#15](../bugs/BUG-005.md) | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
 | TC-CALCULATE-008 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-009 | Calculate | Huy | Pass | | |
 | TC-CALCULATE-010 | Calculate | Huy | Pass | | |
@@ -54,7 +54,7 @@
 | TC-VALIDATION-002 | Validation | Huy | Pass | | |
 | TC-VALIDATION-003 | Validation | Huy | Pass | | |
 | TC-VALIDATION-004 | Validation | Huy | Pass | | |
-| TC-VALIDATION-005 | Validation | Huy | Fail | #1 | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
+| TC-VALIDATION-005 | Validation | Huy | Fail | [#15](../bugs/BUG-005.md) | Không hiển thị thông báo Divide by zero error! khi chia cho 0 |
 | TC-VALIDATION-006 | Validation | Huy | Pass | | |
 | TC-VALIDATION-007 | Validation | Huy | Pass | | |
 
