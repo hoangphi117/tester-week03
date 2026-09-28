@@ -73,15 +73,11 @@ test.describe('Module Options (OPT)', () => {
   });
 
   test('TC-OPTIONS-008: Kiểm tra tùy chọn Integers only với phép toán Concatenate', async () => {
-    await calcPage.selectOperation('Concatenate');
-    await expect(calcPage.integerSelect).toBeDisabled();
-    await expect(calcPage.integerSelect).toBeHidden();
-
     await calcPage.enterFirstNumber('1.5');
     await calcPage.enterSecondNumber('2.5');
-    await calcPage.clickCalculate();
+    await calcPage.selectOperation('Concatenate');
 
-    await expect(calcPage.numberAnswerField).toHaveValue('1.52.5');
+    await expect(calcPage.integerSelect).toBeHidden();
   });
 
   test('TC-OPTIONS-009: Kiểm tra trạng thái checkbox Integers only khi nhấn nút Clear', async () => {

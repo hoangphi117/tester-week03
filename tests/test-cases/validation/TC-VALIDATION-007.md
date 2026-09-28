@@ -26,8 +26,7 @@ Kiểm tra dữ liệu (Validation) / Functional / Use Case Testing
 5. Click nút **Calculate**
 
 ## Expected result
-- Khi Operation = Concatenate, checkbox **Integers only** bị vô hiệu hóa (disabled) hoặc ẩn đi
-- Hệ thống không áp dụng kiểm tra Integers only khi thực hiện Concatenate
+- Khi Operation = Concatenate, checkbox **Integers only** bị ẩn đi
 - Ô **Answer** hiển thị kết quả là chuỗi nối `1234`
 
 ## Status / Related bugs

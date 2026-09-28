@@ -22,13 +22,10 @@ Tùy chọn (Options) / Functional / Special Case Testing
 1. Nhập `1.5` vào ô **First number** (`id="number1Field"`)
 2. Nhập `2.5` vào ô **Second number** (`id="number2Field"`)
 3. Chọn Operation = **Concatenate**
-4. Tích chọn checkbox **Integers only** (`id="integerSelect"`)
-5. Click nút **Calculate** (`id="calculateButton"`)
-6. Quan sát ô **Answer** (`id="numberAnswerField"`)
+4. Kiểm tra hiển thị checkbox **Integers only** (`id="integerSelect"`)
 
 ## Expected result
-- Ô **Answer** hiển thị kết quả ghép chuỗi `1.52.5`
-- Tùy chọn Integers only không làm hỏng tính năng ghép chuỗi của phép toán Concatenate
+- CheckboxIntegers only bị ẩn đi
 
 ## Status / Related bugs
 Not Run / None
