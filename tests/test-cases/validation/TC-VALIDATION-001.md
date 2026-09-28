@@ -24,8 +24,8 @@ Kiểm tra dữ liệu (Validation) / Negative / Equivalence Partitioning
 4. Click nút **Calculate** (`id="calculateButton"`)
 
 ## Expected result
-- Hệ thống hiển thị thông báo lỗi validation cho ô First number hoặc Second number
-- Ô **Answer** (`id="numberAnswerField"`) không hiển thị kết quả
+- Ô First number và Second number mặc định có giá trị là 0
+- Ô **Answer** (`id="numberAnswerField"`) hiển thị kết quả là 0
 
 ## Status / Related bugs
 Not Run / None

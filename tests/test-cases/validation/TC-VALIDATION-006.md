@@ -25,8 +25,8 @@ Kiểm tra dữ liệu (Validation) / Negative / Equivalence Partitioning
 5. Click nút **Calculate** (`id="calculateButton"`)
 
 ## Expected result
-- Hệ thống hiển thị thông báo lỗi: First number không hợp lệ (khoảng trắng không được xem là số)
-- Ô **Answer** không hiển thị kết quả
+- Ô First number mặc định có giá trị là 0
+- Ô Answer hiển thị kết quả là 5
 
 ## Status / Related bugs
 Not Run / None

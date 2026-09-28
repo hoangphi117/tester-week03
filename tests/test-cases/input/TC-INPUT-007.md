@@ -24,8 +24,8 @@ Nhập liệu (Input) / Negative / Equivalence Partitioning
 4. Click nút **Calculate**
 
 ## Expected result
-- Hệ thống hiển thị thông báo lỗi yêu cầu nhập giá trị cho First number
-- Ô **Answer** không hiển thị kết quả
+- Ô First number mặc định có giá trị là 0
+- Ô Answer hiển thị kết quả là 5
 
 ## Status / Related bugs
 Not Run / None
