@@ -8,6 +8,16 @@
 ## Chi tiết lịch sử
 
 ```text
+* commit 5490b7fc8110ff3fdfb801f285eb258f0226660e
+| Author: hoangphi117 <nghphi1206@gmail.com>
+| Date:   Mon Sep 28 22:38:00 2026 +0700
+| 
+|     docs: fix traceability matrix
+| 
+|  reports/ai-audit-report-23120320.md       |   7 ++
+|  tests/test-summary/traceability-matrix.md | 112 ++++++++++++++--------------
+|  2 files changed, 63 insertions(+), 56 deletions(-)
+|
 * commit 59d1437f7af02e81b5dfdcaca03fef653dca4f74
 | Merge: cff4e78 acaccd4
 | Author: Nguyễn Hoàng Phi <145087008+hoangphi117@users.noreply.github.com>
