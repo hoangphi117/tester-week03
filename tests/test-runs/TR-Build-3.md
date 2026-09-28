@@ -49,7 +49,7 @@
 | TC-OPTIONS-005 | Options | Huy | Pass | | |
 | TC-OPTIONS-006 | Options | Huy | Pass | | |
 | TC-OPTIONS-007 | Options | Huy | Pass | | |
-| TC-OPTIONS-008 | Options | Huy | Fail | #1 | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-OPTIONS-008 | Options | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
 | TC-OPTIONS-009 | Options | Huy | Pass | | |
 | TC-VALIDATION-001 | Validation | Huy | Pass | | |
 | TC-VALIDATION-002 | Validation | Huy | Pass | | |
@@ -57,9 +57,15 @@
 | TC-VALIDATION-004 | Validation | Huy | Pass | | |
 | TC-VALIDATION-005 | Validation | Huy | Pass | | |
 | TC-VALIDATION-006 | Validation | Huy | Pass | | |
-| TC-VALIDATION-007 | Validation | Huy | Fail | #1 | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-VALIDATION-007 | Validation | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
 
-## Trạng thái test run
+## Thống kê kết quả (Summary)
 
-`Pass` `Fail` `Blocked` `Not Run`
+| Trạng thái | Số lượng | Tỷ lệ |
+|---|---|---|
+| ✅ Pass | 53 | 96.4% |
+| ❌ Fail | 2 | 3.6% |
+| 🚫 Blocked | 0 | 0% |
+| ⏳ Not Run | 0 | 0% |
+| **Tổng** | **55** | **100%** |
 
