@@ -12,8 +12,8 @@
 | [TC-INPUT-006](../test-cases/input/TC-INPUT-006.md)                | Input      | Phi    | Pass   |             |                                         |
 | [TC-INPUT-007](../test-cases/input/TC-INPUT-007.md)                | Input      | Phi    | Pass   |             |                                         |
 | [TC-INPUT-008](../test-cases/input/TC-INPUT-008.md)                | Input      | Phi    | Pass   |             |                                         |
-| [TC-INPUT-009](../test-cases/input/TC-INPUT-009.md)                | Input      | Phi    | Fail   | [#1](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
-| [TC-INPUT-010](../test-cases/input/TC-INPUT-010.md)                | Input      | Phi    | Fail   | [#2](../bugs/BUG-002.md) | Không hiển thị thông báo lỗi validation |
+| [TC-INPUT-009](../test-cases/input/TC-INPUT-009.md)                | Input      | Phi    | Fail   | [#4](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
+| [TC-INPUT-010](../test-cases/input/TC-INPUT-010.md)                | Input      | Phi    | Fail   | [#5](../bugs/BUG-002.md) | Không hiển thị thông báo lỗi validation |
 | [TC-INPUT-011](../test-cases/input/TC-INPUT-011.md)                | Input      | Phi    | Pass   |             |                                         |
 | [TC-INPUT-012](../test-cases/input/TC-INPUT-012.md)                | Input      | Phi    | Pass   |             |                                         |
 | [TC-INPUT-013](../test-cases/input/TC-INPUT-013.md)                | Input      | Phi    | Pass   |             |                                         |
@@ -25,9 +25,9 @@
 | [TC-OPERATION-005](../test-cases/operation/TC-OPERATION-005.md)    | Operation  | Phi    | Pass   |             |                                         |
 | [TC-OPERATION-006](../test-cases/operation/TC-OPERATION-006.md)    | Operation  | Phi    | Pass   |             |                                         |
 | [TC-VALIDATION-001](../test-cases/validation/TC-VALIDATION-001.md) | Validation | Phi    | Pass   |             |                                         |
-| [TC-VALIDATION-002](../test-cases/validation/TC-VALIDATION-002.md) | Validation | Phi    | Fail   | [#1](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
-| [TC-VALIDATION-003](../test-cases/validation/TC-VALIDATION-003.md) | Validation | Phi    | Fail   | [#2](../bugs/BUG-002.md) | Không hiển thị thông báo lỗi validation |
-| [TC-VALIDATION-004](../test-cases/validation/TC-VALIDATION-004.md) | Validation | Phi    | Fail   | [#1](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
+| [TC-VALIDATION-002](../test-cases/validation/TC-VALIDATION-002.md) | Validation | Phi    | Fail   | [#4](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
+| [TC-VALIDATION-003](../test-cases/validation/TC-VALIDATION-003.md) | Validation | Phi    | Fail   | [#5](../bugs/BUG-002.md) | Không hiển thị thông báo lỗi validation |
+| [TC-VALIDATION-004](../test-cases/validation/TC-VALIDATION-004.md) | Validation | Phi    | Fail   | [#4](../bugs/BUG-001.md) | Không hiển thị thông báo lỗi validation |
 | [TC-VALIDATION-005](../test-cases/validation/TC-VALIDATION-005.md) | Validation | Phi    | Pass   |             |                                         |
 | [TC-VALIDATION-006](../test-cases/validation/TC-VALIDATION-006.md) | Validation | Phi    | Pass   |             |                                         |
 | [TC-VALIDATION-007](../test-cases/validation/TC-VALIDATION-007.md) | Validation | Phi    | Pass   |             |                                         |

@@ -29,4 +29,4 @@ Nhập liệu (Input) / Negative / Equivalence Partitioning
 - Ô **Answer** không hiển thị kết quả
 
 ## Status / Related bugs
-Fail / [#2](../../bugs/BUG-002.md)
+Fail / [#5](../../bugs/BUG-002.md)
