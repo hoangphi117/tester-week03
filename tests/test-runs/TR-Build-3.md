@@ -49,7 +49,7 @@
 | TC-OPTIONS-005 | Options | Huy | Pass | | |
 | TC-OPTIONS-006 | Options | Huy | Pass | | |
 | TC-OPTIONS-007 | Options | Huy | Pass | | |
-| TC-OPTIONS-008 | Options | Huy | Fail | [#7](../bugs/BUG-004.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-OPTIONS-008 | Options | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
 | TC-OPTIONS-009 | Options | Huy | Pass | | |
 | TC-VALIDATION-001 | Validation | Huy | Pass | | |
 | TC-VALIDATION-002 | Validation | Huy | Pass | | |
@@ -57,7 +57,7 @@
 | TC-VALIDATION-004 | Validation | Huy | Pass | | |
 | TC-VALIDATION-005 | Validation | Huy | Pass | | |
 | TC-VALIDATION-006 | Validation | Huy | Pass | | |
-| TC-VALIDATION-007 | Validation | Huy | Fail | [#7](../bugs/BUG-004.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
+| TC-VALIDATION-007 | Validation | Huy | Fail | [#7](../bugs/BUG-006.md) | Checkbox Integers only không bị ẩn khi chọn Concatenate |
 
 ## Thống kê kết quả (Summary)
 
