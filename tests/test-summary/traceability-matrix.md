@@ -24,8 +24,8 @@
 | FR-INPUT-06 | [TC-INPUT-006](../test-cases/input/TC-INPUT-006.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-INPUT-07 | [TC-INPUT-007](../test-cases/input/TC-INPUT-007.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-INPUT-08 | [TC-INPUT-008](../test-cases/input/TC-INPUT-008.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
-| FR-INPUT-09 | [TC-INPUT-009](../test-cases/input/TC-INPUT-009.md) | Input | **Fail** | - | - | - | - | - | - | - | - | [#1](../bugs/BUG-001.md) | Open |
-| FR-INPUT-10 | [TC-INPUT-010](../test-cases/input/TC-INPUT-010.md) | Input | **Fail** | - | - | - | - | - | - | - | - | [#2](../bugs/BUG-002.md) | Open |
+| FR-INPUT-09 | [TC-INPUT-009](../test-cases/input/TC-INPUT-009.md) | Input | **Fail** | - | - | - | - | - | - | - | - | [#4](../bugs/BUG-001.md) | Open |
+| FR-INPUT-10 | [TC-INPUT-010](../test-cases/input/TC-INPUT-010.md) | Input | **Fail** | - | - | - | - | - | - | - | - | [#5](../bugs/BUG-002.md) | Open |
 | FR-INPUT-11 | [TC-INPUT-011](../test-cases/input/TC-INPUT-011.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-INPUT-12 | [TC-INPUT-012](../test-cases/input/TC-INPUT-012.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-INPUT-13 | [TC-INPUT-013](../test-cases/input/TC-INPUT-013.md) | Input | Pass | - | - | - | - | - | - | - | - |  | Passed |
@@ -37,9 +37,9 @@
 | FR-OPERATION-05 | [TC-OPERATION-005](../test-cases/operation/TC-OPERATION-005.md) | Operation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-OPERATION-06 | [TC-OPERATION-006](../test-cases/operation/TC-OPERATION-006.md) | Operation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-VALIDATION-01 | [TC-VALIDATION-001](../test-cases/validation/TC-VALIDATION-001.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
-| FR-VALIDATION-02 | [TC-VALIDATION-002](../test-cases/validation/TC-VALIDATION-002.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#1](../bugs/BUG-001.md) | Open |
-| FR-VALIDATION-03 | [TC-VALIDATION-003](../test-cases/validation/TC-VALIDATION-003.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#2](../bugs/BUG-002.md) | Open |
-| FR-VALIDATION-04 | [TC-VALIDATION-004](../test-cases/validation/TC-VALIDATION-004.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#1](../bugs/BUG-001.md) | Open |
+| FR-VALIDATION-02 | [TC-VALIDATION-002](../test-cases/validation/TC-VALIDATION-002.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#4](../bugs/BUG-001.md) | Open |
+| FR-VALIDATION-03 | [TC-VALIDATION-003](../test-cases/validation/TC-VALIDATION-003.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#5](../bugs/BUG-002.md) | Open |
+| FR-VALIDATION-04 | [TC-VALIDATION-004](../test-cases/validation/TC-VALIDATION-004.md) | Validation | **Fail** | - | - | - | - | - | - | - | - | [#4](../bugs/BUG-001.md) | Open |
 | FR-VALIDATION-05 | [TC-VALIDATION-005](../test-cases/validation/TC-VALIDATION-005.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-VALIDATION-06 | [TC-VALIDATION-006](../test-cases/validation/TC-VALIDATION-006.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
 | FR-VALIDATION-07 | [TC-VALIDATION-007](../test-cases/validation/TC-VALIDATION-007.md) | Validation | Pass | - | - | - | - | - | - | - | - |  | Passed |
