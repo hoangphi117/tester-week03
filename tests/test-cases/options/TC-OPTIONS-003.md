@@ -21,7 +21,6 @@ Tùy chọn (Options) / Usability & Accessibility / Interaction Testing
 
 ## Expected result
 - Trạng thái checkbox **Integers only** được chuyển đổi tương ứng (từ unchecked sang checked hoặc ngược lại)
-- Thao tác thuận tiện, vùng click mở rộng trên cả văn bản nhãn
 
 ## Status / Related bugs
 Not Run / None
